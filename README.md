@@ -2,7 +2,7 @@
 A free edgenuity script I made for Quizes, Tests, and Exams. Includes auto delays, auto submit and more! For a limited time only; we ask you join our discord to help support and keep projects like this free.
 
 # Exodus - Demo Exam Delays Script
-![exoduslogo-modified (1)](https://github.com/user-attachments/assets/a4ebb995-244c-4cd7-8a33-15413fe73504)
+
 
 ## Description
 
@@ -28,8 +28,8 @@ https://github.com/user-attachments/assets/d3c50afe-b01a-4e80-af88-c7289cdfafbe
 ![image](https://github.com/user-attachments/assets/1fb2d175-cf95-4d29-bb19-9cc3c3f361f1)
 
 ### Usage:
-1. **Min Seconds**: Set the minimum delay between advancing to the next question (default: 27 seconds).
-2. **Max Seconds**: Set the maximum delay between advancing to the next question (default: 60 seconds).
+1. **Min Seconds**: Set the minimum delay between advancing to the next question (default: 0 seconds).
+2. **Max Seconds**: Set the maximum delay between advancing to the next question (default: 0 seconds).
 3. **Start**: Begin the script to start answering questions.
 4. **Stop**: Stop the script at any time.
 5. **Elapsed Time**: View the elapsed time for your session.
@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/d3c50afe-b01a-4e80-af88-c7289cdfafbe
 - If you encounter any bugs or issues, please report them on the Discord server.
 
 ### Disclaimer:
-This script is meant for educational purposes only. Use it responsibly and in accordance with the terms of service of the platform ;).
+This script is meant for educational purposes only. Use it responsibly and in accordance with the terms of service of the platform you're using it on ;).
 
 ---
 
