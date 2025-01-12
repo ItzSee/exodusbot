@@ -7,6 +7,10 @@ A free edgenuity script I made for Quizes, Tests, and Exams. Includes auto delay
 
 Welcome to the **Exodus - Demo Exam Delays** script! This script is designed to automate quizzes, tests, and exams on Edgenuity. It features automatic answering, auto-advancement with customizable delays, and auto-submit functionality. While this is still in early beta, the script is a free demo to give you a taste of what’s to come.
 
+
+https://github.com/user-attachments/assets/d3c50afe-b01a-4e80-af88-c7289cdfafbe
+
+
 ### Key Features:
 - **Auto Answer**: Automatically answers questions for quizzes, tests, and exams.
 - **Auto Advance**: Automatically advances to the next question after a set delay.
@@ -19,6 +23,8 @@ Welcome to the **Exodus - Demo Exam Delays** script! This script is designed to 
 - **AFK Support**: The script is not fully AFK yet and requires manual intervention at times.
 - **No Delay Saving**: Delays are not saved across activities. This will be addressed in future updates.
 - **Limited Features**: Some features are still in development, and bugs are expected.
+
+![image](https://github.com/user-attachments/assets/1fb2d175-cf95-4d29-bb19-9cc3c3f361f1)
 
 ### Usage:
 1. **Min Seconds**: Set the minimum delay between advancing to the next question (default: 27 seconds).
@@ -35,11 +41,11 @@ Welcome to the **Exodus - Demo Exam Delays** script! This script is designed to 
 - If you encounter any bugs or issues, please report them on the Discord server.
 
 ### Disclaimer:
-This script is meant for educational purposes only. Use it responsibly and in accordance with the terms of service of the platform you're using it on.
+This script is meant for educational purposes only. Use it responsibly and in accordance with the terms of service of the platform ;).
 
 ---
 
-**Made by**: [Itzseedc on Discord](https://discord.gg/itzseedc)
+**Made by**: [Itzseedc on Discord](https://discord.gg/exodusbot)
 
 Thank you for using the Exodus Demo! Stay tuned for more updates and improvements.
 
