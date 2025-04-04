@@ -10,7 +10,7 @@
 // @connect      pastebin.com
 // @connect      api.github.com
 // @connect      githubusercontent.com
-// @upateURL     https://raw.githubusercontent.com/harkin2/exodusbot/refs/heads/main/ExodusBot.user.js
+// @updateURL    https://raw.githubusercontent.com/harkin2/exodusbot/refs/heads/main/ExodusBot.user.js
 // @downloadURL  https://raw.githubusercontent.com/harkin2/exodusbot/refs/heads/main/ExodusBot.user.js
 // @copyright    2025 ExodusBot - All Rights Reserved
 // @author       Itzseedc
