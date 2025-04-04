@@ -13,7 +13,7 @@
 // @connect      api.github.com
 // @connect      pastebin.com
 // @copyright    2025 ExodusBot - All Rights Reserved
-// @version      v1.5
+// @version      v1.5.1
 // ==/UserScript==
 
 
