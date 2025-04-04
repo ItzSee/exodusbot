@@ -14,7 +14,7 @@
 // @downloadURL  https://raw.githubusercontent.com/harkin2/exodusbot/refs/heads/main/ExodusBot.user.js
 // @copyright    2025 ExodusBot - All Rights Reserved
 // @author       Itzseedc
-// @version      v1.5.1.1
+// @version      v1.5.1
 // ==/UserScript==
 
 
