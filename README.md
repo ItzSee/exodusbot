@@ -6,7 +6,7 @@ A free edgenuity script I made for Quizes, Tests, and Exams. Includes auto delay
 
 ## Description
 
-Welcome to the **Exodus - Demo Exam Delays** script! This script is designed to automate quizzes, tests, and exams on Edgenuity. It features automatic answering, auto-advancement with customizable delays, and auto-submit functionality. While this is still in early beta, the script is a free demo to give you a taste of what’s to come.
+Welcome to **Exodus**! This script is designed to automate quizzes, tests, and exams on Edgenuity. It features automatic answering, auto-advancement with customizable delays, and auto-submit functionality. While this is still in early beta, the script is a free demo to give you a taste of what’s to come.
 
 
 https://github.com/user-attachments/assets/d3c50afe-b01a-4e80-af88-c7289cdfafbe
