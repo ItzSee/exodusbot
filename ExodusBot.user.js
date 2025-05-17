@@ -17,10 +17,11 @@
 // @downloadURL  https://api.exodusbot.net/ExodusBot.user.js
 // ==/UserScript==
 
-
-// Join the Discord for updates and more! https://discord.gg/exodusbot
 // Version: Open BETA 1.5.1
 
-//Download at https://exodusbot.net/download
+// IF YOU ARE HERE:
+// Download at https://exodusbot.net/download
+// Purchase a key at https://exodusbot.net/
+// Join the Discord for updates and more! https://discord.gg/exodusbot
 
 // Thanks for using Exodus :)
