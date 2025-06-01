@@ -19,7 +19,7 @@ Welcome to **Exodus**! This script is a Semi-AFK script designed to automate qui
 - **Auto Interactive Frames**: Skips Math Proofs, Virtual Lab frames, and annoying drag and drop activities.
 - **Language Activity Skipper**: Bypass language mini-game activities, and optionally, speaking activities (usually found in Spanish classes).
 - **AI Answers**: More specifically, **Auto Writing** will automatically write content on activities labelled as **"Online Content", "Journal", "Practice: Writing",** and more using our custom AI and humanization models.
-- **AI Answers Button**: Attaches a "Search Brainly" button below all questions.
+- **AI Answers Button**: Attaches an "AI Answers" Button below questions. Use this if Exodus couldn't find an answer, or if you'd like an in depth explanation gen'd by AI.
 - **Show Columns**: Shows the "Sample Response" on written answers (if available on the page).
 - **Skip Intros & Outros**: Skips the intros & outro audio clips by deleting the invisible overlay.
 - **Skip Videos (EdgeEX)**: Skips video content on Edgenuity EX classes.
@@ -47,7 +47,7 @@ Welcome to **Exodus**! This script is a Semi-AFK script designed to automate qui
 
 # Usage 🤖
 
-<li>Clearing page cookies, cache, or restting configurations usually resolves certain issues. </li>
+<li>Clearing page cookies, cache, or restting configurations usually resolves certain issues. </li><br>
 <li>If the bot freezes on a question, a simple refresh of the page fixes it immediatly. 🔄</li><br>
 <li>Exodus can be left alone for a period of time, but it's recommended to stay in the same room if the bot encounters any issues.</li><br>
 <li>This script has only been tested on chrome on PC, so use Chrome.</li><br>
