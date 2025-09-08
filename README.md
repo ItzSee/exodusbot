@@ -50,7 +50,7 @@ Welcome to **Exodus**! This script is a Semi-AFK script designed to automate qui
 <li>Clearing page cookies, cache, or restting configurations usually resolves certain issues. </li><br>
 <li>If the bot freezes on a question, a simple refresh of the page fixes it immediatly. 🔄</li><br>
 <li>Exodus can be left alone for a period of time, but it's recommended to stay in the same room if the bot encounters any issues.</li><br>
-<li>This script has only been tested on chrome on PC, so use Chrome.</li><br>
+<li>Exodus - the best Edgenuity Cheat/hack also works on your phone. Go to [exodusbot.net/tutorial](https://exodusbot.net/tutorial) to watch the Mobile and Desktop tutorial!</li><br>
 
 ### Notes 
 - Join our **Discord** to get access to new features and updates: [Discord Link](https://discord.gg/exodusbot)
@@ -79,4 +79,4 @@ At Exodus, we value your privacy rights. Please view our [Privacy Policy](https:
 
 **Made with 💗 by**: [See on Discord](https://discord.gg/exodusbot)
 
-Thank you for using Exodus! Stay tuned for Edge EX compatibility.
+Thank you for using Exodus! EdgeEX Compatibility is HERE.
