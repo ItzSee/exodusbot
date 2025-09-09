@@ -40,7 +40,7 @@ Welcome to **Exodus**! This script is a Semi-AFK script designed to automate qui
 ### Installation ⬇️
 
 1. Purchase Exodus on the website: [Exodus Website](https://exodusbot.net/).
-2. Download the script by [clicking here,](https://api.exodusbot,net/ExodusBot.user.js) or by going to: [exodusbot.net/download](https://exodusbot.net/download)
+2. Download the script by [clicking here,](https://api.exodusbot.net/ExodusBot.user.js) or by going to: [exodusbot.net/download](https://exodusbot.net/download)
 2. Add the script to your Tampermonkey dashboard by dragging and dropping or following the Tutorial video.
 3. Navigate to edgenuity.com.
 4. Input the key you received after your order, on the invoice page, to activate the menu.
